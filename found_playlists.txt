@@ -1,3 +1,4 @@
 # MiTV Network - Active M3U Playlists Database
 # Organization: MUSLIM ISLAM
 http://202.150.172.3:8000/playlist.m3u
+http://103.164.233.18:80/playlist.m3u
